@@ -3896,7 +3896,7 @@ quat4.str = function(a) {
         this.loaderstyle = pm[19];
         if (this.loaderstyle === 0) {
             this.loaderlogo = new Image();
-            this.loaderlogo.src = "https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/loading-logo.png";
+            this.loaderlogo.src = "loading-logo.png";
         }
         this.next_uid = pm[21];
         this.system = new cr.system_object(this);
@@ -20280,7 +20280,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         1811145562201751, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
+                            ["images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
                                 [-0.07047790288925171, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, 0.6364187002182007, -0.9440000057220459, 0.8605566620826721, -0.9440000057220459, 0.2915907204151154, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, -0.03599520027637482, -0.9440000057220459, 0.1019357070326805, -0.9440000057220459], 0
                             ]
                         ]
@@ -20308,7 +20308,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 1,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/wall.png", 104, 1],
+                0, ["images/wall.png", 104, 1],
                 null, [
                     [
                         "Solid",
@@ -20339,7 +20339,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 0,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/bg1.png", 156, 1],
+                0, ["images/bg1.png", 156, 1],
                 null, [],
                 false,
                 false,
@@ -20351,7 +20351,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 0,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/bg2.png", 156, 1],
+                0, ["images/bg2.png", 156, 1],
                 null, [],
                 false,
                 false,
@@ -20373,7 +20373,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         9310550853039761, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -20390,7 +20390,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 1,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/wall.png", 104, 1],
+                0, ["images/wall.png", 104, 1],
                 null, [
                     [
                         "Solid",
@@ -20408,7 +20408,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.Particles,
                 false, [],
                 2,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/playerparticle.png", 92, 1],
+                0, ["images/playerparticle.png", 92, 1],
                 null, [
                     [
                         "Pin",
@@ -20441,7 +20441,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         3518437786643048, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
+                            ["images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
                                 [-0.07047790288925171, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, 0.6364187002182007, -0.9440000057220459, 0.8605566620826721, -0.9440000057220459, 0.2915907204151154, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, -0.03599520027637482, -0.9440000057220459, 0.1019357070326805, -0.9440000057220459], 0
                             ]
                         ]
@@ -20469,7 +20469,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.Particles,
                 false, [],
                 2,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/playerparticle.png", 92, 1],
+                0, ["images/playerparticle.png", 92, 1],
                 null, [
                     [
                         "Pin",
@@ -20502,7 +20502,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         7505284560090583, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -20519,7 +20519,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 1,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/wall.png", 104, 1],
+                0, ["images/wall.png", 104, 1],
                 null, [
                     [
                         "Solid",
@@ -20547,7 +20547,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         3503561837151276, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/spike-sheet0.png", 591, 0, 0, 44, 80, 1, 0.6590909361839294, 0.4749999940395355, [],
+                            ["images/spike-sheet0.png", 591, 0, 0, 44, 80, 1, 0.6590909361839294, 0.4749999940395355, [],
                                 [5.960464477539063e-008, -0.1749999821186066, -0.2499999403953552, -0.2749999761581421, 0.3181820511817932, -0.01249998807907105, -0.2045459449291229, 0.2875000536441803, 5.960464477539063e-008, 0.1624999940395355, -0.6590909361839294, -0.01249998807907105], 0
                             ]
                         ]
@@ -20611,7 +20611,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         7613620147924718, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/textbg_bestscore_normal-sheet0.png", 589, 0, 0, 404, 222, 1, 0.5, 0.5, [],
+                            ["images/textbg_bestscore_normal-sheet0.png", 589, 0, 0, 404, 222, 1, 0.5, 0.5, [],
                                 [-0.4925742745399475, -0.4864864945411682, 0, -0.5, 0.4925739765167236, -0.4864864945411682, 0.4925739765167236, 0.48648601770401, 0, 0.5, -0.4925742745399475, 0.48648601770401], 0
                             ]
                         ]
@@ -20690,7 +20690,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         9755286571421904, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/textbg_bestscore_normal-sheet0.png", 589, 0, 0, 404, 222, 1, 0.5, 0.5, [],
+                            ["images/textbg_bestscore_normal-sheet0.png", 589, 0, 0, 404, 222, 1, 0.5, 0.5, [],
                                 [-0.4925742745399475, -0.4864864945411682, 0, -0.5, 0.4925739765167236, -0.4864864945411682, 0.4925739765167236, 0.48648601770401, 0, 0.5, -0.4925742745399475, 0.48648601770401], 0
                             ]
                         ]
@@ -20756,7 +20756,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         5103342796693258, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/normalbttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
+                            ["images/normalbttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
                                 [-0.4925742745399475, -0.4864864945411682, 0, -0.5, 0.4925739765167236, -0.4864864945411682, 0.4925739765167236, 0.48648601770401, 0, 0.5, -0.4925742745399475, 0.48648601770401], 0
                             ]
                         ]
@@ -20822,7 +20822,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         3404318432928398, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/nightmarebttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
+                            ["images/nightmarebttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
                                 [-0.4925742745399475, -0.4864864945411682, 0, -0.5, 0.4925739765167236, -0.4864864945411682, 0.4925739765167236, 0.48648601770401, 0, 0.5, -0.4925742745399475, 0.48648601770401], 0
                             ]
                         ]
@@ -20862,7 +20862,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         445665985768652, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/hellbttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
+                            ["images/hellbttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
                                 [-0.4925742745399475, -0.4864864945411682, 0, -0.5, 0.4925739765167236, -0.4864864945411682, 0.4925739765167236, 0.48648601770401, 0, 0.5, -0.4925742745399475, 0.48648601770401], 0
                             ]
                         ]
@@ -20889,7 +20889,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         872611027852685, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/infernobttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
+                            ["images/infernobttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
                                 [-0.4925742745399475, -0.4864864945411682, 0, -0.5, 0.4925739765167236, -0.4864864945411682, 0.4925739765167236, 0.48648601770401, 0, 0.5, -0.4925742745399475, 0.48648601770401], 0
                             ]
                         ]
@@ -20968,7 +20968,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         6096583420072432, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/impossiblebttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
+                            ["images/impossiblebttn-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
                                 [-0.4925742745399475, -0.4864864945411682, 0, -0.5, 0.4925739765167236, -0.4864864945411682, 0.4925739765167236, 0.48648601770401, 0, 0.5, -0.4925742745399475, 0.48648601770401], 0
                             ]
                         ]
@@ -21011,7 +21011,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 0,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/bg3.png", 156, 1],
+                0, ["images/bg3.png", 156, 1],
                 null, [],
                 false,
                 false,
@@ -21023,7 +21023,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 1,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/wall.png", 104, 1],
+                0, ["images/wall.png", 104, 1],
                 null, [
                     [
                         "Solid",
@@ -21051,7 +21051,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         1732461127514883, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
+                            ["images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
                                 [-0.07047790288925171, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, 0.6364187002182007, -0.9440000057220459, 0.8605566620826721, -0.9440000057220459, 0.2915907204151154, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, -0.03599520027637482, -0.9440000057220459, 0.1019357070326805, -0.9440000057220459], 0
                             ]
                         ]
@@ -21089,7 +21089,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         6873912397263765, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -21158,7 +21158,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 0,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/bg4.png", 156, 1],
+                0, ["images/bg4.png", 156, 1],
                 null, [],
                 false,
                 false,
@@ -21180,7 +21180,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         2282886611580339, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
+                            ["images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
                                 [-0.07047790288925171, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, 0.6364187002182007, -0.9440000057220459, 0.8605566620826721, -0.9440000057220459, 0.2915907204151154, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, -0.03599520027637482, -0.9440000057220459, 0.1019357070326805, -0.9440000057220459], 0
                             ]
                         ]
@@ -21208,7 +21208,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.Particles,
                 false, [],
                 2,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/playerparticle.png", 92, 1],
+                0, ["images/playerparticle.png", 92, 1],
                 null, [
                     [
                         "Pin",
@@ -21241,7 +21241,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         4906895085843812, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -21268,7 +21268,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         8423911507388832, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -21295,7 +21295,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         4482075401176679, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -21322,7 +21322,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         4640784326725808, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -21339,7 +21339,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.Particles,
                 false, [],
                 2,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/playerparticle.png", 92, 1],
+                0, ["images/playerparticle.png", 92, 1],
                 null, [
                     [
                         "Pin",
@@ -21372,7 +21372,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         7260137273477723, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/spike-sheet0.png", 591, 0, 0, 44, 80, 1, 0.6590909361839294, 0.4749999940395355, [],
+                            ["images/spike-sheet0.png", 591, 0, 0, 44, 80, 1, 0.6590909361839294, 0.4749999940395355, [],
                                 [5.960464477539063e-008, -0.1749999821186066, -0.2499999403953552, -0.2749999761581421, 0.3181820511817932, -0.01249998807907105, -0.2045459449291229, 0.2875000536441803, 5.960464477539063e-008, 0.1624999940395355, -0.6590909361839294, -0.01249998807907105], 0
                             ]
                         ]
@@ -21426,7 +21426,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 0,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/bg5.png", 156, 1],
+                0, ["images/bg5.png", 156, 1],
                 null, [],
                 false,
                 false,
@@ -21438,7 +21438,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 1,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/wall.png", 104, 1],
+                0, ["images/wall.png", 104, 1],
                 null, [
                     [
                         "Solid",
@@ -21456,7 +21456,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 1,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/wall.png", 104, 1],
+                0, ["images/wall.png", 104, 1],
                 null, [
                     [
                         "Solid",
@@ -21484,7 +21484,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         3372934107952381, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
+                            ["images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
                                 [-0.07047790288925171, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, 0.6364187002182007, -0.9440000057220459, 0.8605566620826721, -0.9440000057220459, 0.2915907204151154, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, -0.03599520027637482, -0.9440000057220459, 0.1019357070326805, -0.9440000057220459], 0
                             ]
                         ]
@@ -21512,7 +21512,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.Particles,
                 false, [],
                 2,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/playerparticle.png", 92, 1],
+                0, ["images/playerparticle.png", 92, 1],
                 null, [
                     [
                         "Pin",
@@ -21545,7 +21545,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         7702544969032746, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -21562,7 +21562,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.TiledBg,
                 false, [],
                 0,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/bg6.png", 156, 1],
+                0, ["images/bg6.png", 156, 1],
                 null, [],
                 false,
                 false,
@@ -21584,7 +21584,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         5032065670131676, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
+                            ["images/player-sheet0.png", 1472, 0, 0, 57, 125, 1, 0.08771929889917374, 0.9440000057220459, [],
                                 [-0.07047790288925171, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, 0.6364187002182007, -0.9440000057220459, 0.8605566620826721, -0.9440000057220459, 0.2915907204151154, -0.9440000057220459, 0.3950397074222565, -0.9440000057220459, -0.03599520027637482, -0.9440000057220459, 0.1019357070326805, -0.9440000057220459], 0
                             ]
                         ]
@@ -21612,7 +21612,7 @@ cr.getProjectModel = function() {
                 cr.plugins_.Particles,
                 false, [],
                 2,
-                0, ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/playerparticle.png", 92, 1],
+                0, ["images/playerparticle.png", 92, 1],
                 null, [
                     [
                         "Pin",
@@ -21645,7 +21645,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         7463286475444659, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
+                            ["images/touchleft-sheet0.png", 168, 0, 0, 250, 250, 1, 0.5, 0.5, [],
                                 [], 3
                             ]
                         ]
@@ -21698,7 +21698,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         509362264958093, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/letsplaybg-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
+                            ["images/letsplaybg-sheet0.png", 413, 0, 0, 404, 222, 1, 0.5, 0.5, [],
                                 [-0.4925742745399475, -0.4864864945411682, 0, -0.5, 0.4925739765167236, -0.4864864945411682, 0.4925739765167236, 0.48648601770401, 0, 0.5, -0.4925742745399475, 0.48648601770401], 0
                             ]
                         ]
@@ -21777,7 +21777,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         6888153195182923, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/facebookshare-sheet0.png", 1958, 0, 0, 118, 118, 1, 0.491525411605835, 0.491525411605835, [],
+                            ["images/facebookshare-sheet0.png", 1958, 0, 0, 118, 118, 1, 0.491525411605835, 0.491525411605835, [],
                                 [-0.3389830589294434, -0.3389830589294434, 0, -0.4745762646198273, 0.3474576473236084, -0.347457617521286, 0.491525411605835, 0, 0.3474576473236084, 0.3474576473236084, 0, 0.491525411605835, -0.3389830589294434, 0.3389830589294434, -0.4745762646198273, 0], 0
                             ]
                         ]
@@ -21804,7 +21804,7 @@ cr.getProjectModel = function() {
                         0,
                         false,
                         8810169868865641, [
-                            ["https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/fall@main/images/twittershare-sheet0.png", 2369, 0, 0, 118, 118, 1, 0.491525411605835, 0.491525411605835, [],
+                            ["images/twittershare-sheet0.png", 2369, 0, 0, 118, 118, 1, 0.491525411605835, 0.491525411605835, [],
                                 [-0.3389830589294434, -0.3389830589294434, 0, -0.4745762646198273, 0.3474576473236084, -0.347457617521286, 0.491525411605835, 0, 0.3474576473236084, 0.3474576473236084, 0, 0.491525411605835, -0.3389830589294434, 0.3389830589294434, -0.4745762646198273, 0], 0
                             ]
                         ]
